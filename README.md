@@ -41,7 +41,7 @@ Alongside development, I work as an Online HSC ICT Teacher, helping HSC students
 -  **medium :** https://medium.com/@nazmulhasan68
 -  **threads :** https://www.threads.com/@nazmulhasan.68
 -  **behance :** https://www.behance.net/nazmulhasan680
--  **dribbble :**https://dribbble.com/nazmulhasan68
+-  **dribbble :** https://dribbble.com/nazmulhasan68
 
 ---
 
