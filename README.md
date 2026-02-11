@@ -29,7 +29,7 @@ Alongside development, I work as an Online HSC ICT Teacher, helping HSC students
 -  **Facebook:** https://www.facebook.com/nazmulhasan680  
 -  **Email:** nazmulhasan00068@gmail.com
 -  **portfolio :** https://nazmulhasan68.cloud/
--  ** X :** https://x.com/NazmulHasa68
+-  **X :** https://x.com/NazmulHasa68
 -  **pinterest :** https://www.pinterest.com/nazmulhasan68/
 -  **kaggle :** https://www.kaggle.com/nazmulhasan680
 -  **dev.to :** https://dev.to/nazmulhasan68
