@@ -22,12 +22,24 @@ Alongside development, I work as an Online HSC ICT Teacher, helping HSC students
 
 ---
 
-## 🌐 Connect with Me
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/nazmulhasan68  
-- 💻 **GitHub:** https://github.com/NazmulHasan68  
-- 📸 **Instagram:** https://www.instagram.com/nazmulhasan.68  
-- 📘 **Facebook:** https://www.facebook.com/nazmulhasan680  
-- 📘 **Email:** nazmulhasan00068@gmail.com  
+##  Connect with Me
+-  **LinkedIn:** https://www.linkedin.com/in/nazmulhasan68  
+-  **GitHub:** https://github.com/NazmulHasan68  
+-  **Instagram:** https://www.instagram.com/nazmulhasan.68  
+-  **Facebook:** https://www.facebook.com/nazmulhasan680  
+-  **Email:** nazmulhasan00068@gmail.com
+-  **portfolio :** https://nazmulhasan68.cloud/
+-  ** X :** https://x.com/NazmulHasa68
+-  **pinterest :** https://www.pinterest.com/nazmulhasan68/
+-  **kaggle :** https://www.kaggle.com/nazmulhasan680
+-  **dev.to :** https://dev.to/nazmulhasan68
+-  **tiktok :** https://www.tiktok.com/@nazmulhasan_68
+-  **about.me :** https://about.me/nazmulhasan68
+-  **stackoverflow :** https://stackoverflow.com/users/32158939/nazmulhasan68
+-  **fiverr :** https://www.fiverr.com/sellers/nazmul_hasan68
+-  **hashnode :** https://hashnode.com/@nazmulhasan68
+-  **medium :** https://medium.com/@nazmulhasan68
+-  **threads :** https://www.threads.com/@nazmulhasan.68
 
 ---
 
