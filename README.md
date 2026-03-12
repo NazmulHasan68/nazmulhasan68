@@ -8,6 +8,7 @@ I am a professional Web Developer specializing in the MERN stack and Next.js, wi
 
 Alongside development, I work as an Online HSC ICT Teacher, helping HSC students understand ICT concepts through practical, structured, and easy-to-understand learning.
 
+
 ---
 
 ## 🔧 Technical Skills
