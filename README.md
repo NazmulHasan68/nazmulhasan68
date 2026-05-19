@@ -17,7 +17,7 @@ Alongside development, I work as an Online HSC ICT Teacher, helping HSC students
 - CI/CD Pipelines
 - Docker & Containerization
 - VPS Deployment & Server Management
-- Online HSC ICT Teaching
+- Online HSC ICT Teaching .
 
 ---
 
