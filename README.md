@@ -1,7 +1,7 @@
 # Hi, I'm Nazmul Hasan  👋
 keyword : *nazmulhasan68* 
 
-💻 **Web Developer** | MERN Stack & Next.js   
+💻 **Web Developer** | MERN Stack & Next.js      
 📚 **Online HSC ICT Teacher**
 
 I am a professional Web Developer specializing in the MERN stack and Next.js, with a strong focus on building modern, scalable, and high-performance web applications with clean and maintainable code.
