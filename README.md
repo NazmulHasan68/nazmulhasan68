@@ -1,6 +1,5 @@
 # Hi, I'm Nazmul Hasan  👋
 keyword : *nazmulhasan68* 
-
 💻 **Web Developer** | MERN Stack & Next.js      
 📚 **Online HSC ICT Teacher**
 
