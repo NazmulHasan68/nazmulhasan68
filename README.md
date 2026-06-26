@@ -4,7 +4,7 @@ keyword : *nazmulhasan68*
 💻 **Web Developer** | MERN Stack & Next.js 
 📚 **Online HSC ICT Teacher**
 
-I am a professional Web Developer specializing in the MERN stack and Next.js, with a strong focus on building modern, scalable, and high-performance web applications with clean and maintainable code.
+I am a professional Web Developer specializing in the MERN stack and Next.js, with a strong focus on building modern, scalable, and high-performance web applications with clean and maintainable code 
 
 Alongside development, I work as an Online HSC ICT Teacher, helping HSC students understand ICT concepts through practical, structured, and easy-to-understand learning.
 ---
