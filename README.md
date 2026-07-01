@@ -1,46 +1,47 @@
-# Hi, I'm Nazmul Hasan  
-keyword : *nazmulhasan68*   
+<h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
+<h3 align="center">Full Stack Web Developer (MERN Stack) | React, Next.js, Node.js, MongoDB</h3>
 
-💻 **Web Developer** | MERN Stack & Next.js 
-📚 **Online HSC ICT Teacher**
-
-I am a professional Web Developer specializing in the MERN stack and Next.js, with a strong focus on building modern, scalable, and high-performance web applications with clean and maintainable code 
-
-Alongside development, I work as an Online HSC ICT Teacher, helping HSC students understand ICT concepts through practical, structured, and easy-to-understand learning.
----
-
-## 🔧 Technical Skills
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-- Next.js
-- JavaScript
-- Full-Stack Web Development
-- CI/CD Pipelines
-- Docker & Containerization
-- VPS Deployment & Server Management
-- Online HSC ICT Teaching .
+<p align="center">
+  <a href="https://nazmulhasan68.cloud"><img src="https://img.shields.io/badge/Portfolio-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:nazmulhasan00068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-informational?style=for-the-badge" />
+</p>
 
 ---
 
-##  Connect with Me
--  **LinkedIn:** https://www.linkedin.com/in/nazmulhasan68  
--  **GitHub:** https://github.com/NazmulHasan68  
--  **Instagram:** https://www.instagram.com/nazmulhasan.68  
--  **Facebook:** https://www.facebook.com/nazmulhasan680  
--  **Email:** nazmulhasan00068@gmail.com
--  **portfolio :** https://nazmulhasan68.cloud/
--  **X :** https://x.com/NazmulHasa68
--  **pinterest :** https://www.pinterest.com/nazmulhasan68/
--  **kaggle :** https://www.kaggle.com/nazmulhasan680
--  **dev.to :** https://dev.to/nazmulhasan68
--  **tiktok :** https://www.tiktok.com/@nazmulhasan_68
--  **about.me :** https://about.me/nazmulhasan68
--  **stackoverflow :** https://stackoverflow.com/users/32158939/nazmulhasan68
--  **fiverr :** https://www.fiverr.com/sellers/nazmul_hasan68
--  **hashnode :** https://hashnode.com/@nazmulhasan68
--  **medium :** https://medium.com/@nazmulhasan68
--  **threads :** https://www.threads.com/@nazmulhasan.68
--  **behance :** https://www.behance.net/nazmulhasan680
--  **dribbble :** https://dribbble.com/nazmulhasan68
---- ---
+### 🚀 About Me
+Full Stack Web Developer with **3+ years** of experience building scalable MERN stack apps. Delivered **8+ production apps**, mentored **5,000+ learners**, and use **n8n, Claude & Antigravity** to automate workflows and speed up development.
 
-⭐ *Feel free to explore my repositories or connect with me for collaboration, development, and learning.*
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+### 💼 Featured Projects
+| Project | Live Demo |
+|---|---|
+| 🎓 Learning Management System | [bdeducatorsbd.com](https://bdeducatorsbd.com) |
+| 📰 SEO-Friendly News Portal | [wmznews.com](https://wmznews.com) |
+| 🏢 Agency Website | [wmzagency.com](https://wmzagency.com) |
+| ⚙️ Software & Automation Agency | [creativenexusit.com](https://creativenexusit.com) |
+| 👞 Leather Export Company | [tanova.com.bd](https://www.tanova.com.bd) |
+| 📊 EasyHRM & EasyAnalyzer | [cnit-demo.vercel.app](https://cnit-demo.vercel.app) |
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan68&show_icons=true&theme=default&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://nazmulhasan68.cloud">🌍 Portfolio</a> •
+  <a href="mailto:nazmulhasan00068@gmail.com">📧 Email</a>
+</p>
