@@ -37,15 +37,6 @@ Full Stack Web Developer with <b>3+ years</b> of experience building scalable ME
   <tr><td>Agency Website</td><td><a href="https://wmzagency.com">wmzagency.com</a></td></tr>
   <tr><td>Software & Automation Agency</td><td><a href="https://creativenexusit.com">creativenexusit.com</a></td></tr>
   <tr><td>Leather Export Company</td><td><a href="https://www.tanova.com.bd">tanova.com.bd</a></td></tr>
+  <tr><td>University CLub</td><td><a href="https://www.bucc.site">tanova.com.bd</a></td></tr>
   <tr><td>Project List </td><td><a href="https://cnit-demo.vercel.app">cnit-demo.vercel.app</a></td></tr>
 </table>
-
-<h3>GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan68&show_icons=true&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://nazmulhasan68.cloud">Portfolio</a> &nbsp;|&nbsp;
-  <a href="mailto:nazmulhasan00068@gmail.com">Email</a>
-</p>
