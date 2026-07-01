@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nazmul Hasan</h1>
+<h1 align="center">Nazmul Hasan</h1>
 <h3 align="center">Full Stack Web Developer (MERN Stack) | React, Next.js, Node.js, MongoDB</h3>
 
 <p align="center">
   <a href="https://nazmulhasan68.cloud"><img src="https://img.shields.io/badge/Portfolio-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:nazmulhasan00068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://cnit-demo.vercel.app/"><img src="https://img.shields.io/badge/Demo,%20Projects-informational?style=for-the-badge" /></a>
+  <a href="https://cnit-demo.vercel.app/"><img src="https://img.shields.io/badge/Demo%20Projects-informational?style=for-the-badge" /></a>
 </p>
 
----
+<hr>
 
-### 🚀 About Me
-Full Stack Web Developer with **3+ years** of experience building scalable MERN stack apps. Delivered **8+ production apps**, mentored **5,000+ learners**, and use **n8n, Claude & Antigravity** to automate workflows and speed up development.
+<h3>About</h3>
+<p>
+Full Stack Web Developer with <b>3+ years</b> of experience building scalable MERN stack applications. Delivered <b>8+ production applications</b>, mentored <b>5,000+ learners</b>, and use <b>n8n, Claude, and Antigravity</b> to automate workflows and increase development efficiency.
+</p>
 
-### 🛠️ Tech Stack
+<h3>Tech Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -26,12 +28,24 @@ Full Stack Web Developer with **3+ years** of experience building scalable MERN 
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
-### 💼 Featured Projects
-| Project | Live Demo |
-|---|---|
-| 🎓 Learning Management System | [bdeducatorsbd.com](https://bdeducatorsbd.com) |
-| 📰 SEO-Friendly News Portal | [wmznews.com](https://wmznews.com) |
-| 🏢 Agency Website | [wmzagency.com](https://wmzagency.com) |
-| ⚙️ Software & Automation Agency | [creativenexusit.com](https://creativenexusit.com) |
-| 👞 Leather Export Company | [tanova.com.bd](https://www.tanova.com.bd) |
-| 📊 EasyHRM & EasyAnalyzer | [cnit-demo.vercel.app](https://cnit-demo.vercel.app) |
+<h3>Featured Projects</h3>
+
+<table>
+  <tr><th align="left">Project</th><th align="left">Live Demo</th></tr>
+  <tr><td>Learning Management System</td><td><a href="https://bdeducatorsbd.com">bdeducatorsbd.com</a></td></tr>
+  <tr><td>SEO-Friendly News Portal</td><td><a href="https://wmznews.com">wmznews.com</a></td></tr>
+  <tr><td>Agency Website</td><td><a href="https://wmzagency.com">wmzagency.com</a></td></tr>
+  <tr><td>Software & Automation Agency</td><td><a href="https://creativenexusit.com">creativenexusit.com</a></td></tr>
+  <tr><td>Leather Export Company</td><td><a href="https://www.tanova.com.bd">tanova.com.bd</a></td></tr>
+  <tr><td>Project List </td><td><a href="https://cnit-demo.vercel.app">cnit-demo.vercel.app</a></td></tr>
+</table>
+
+<h3>GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan68&show_icons=true&theme=default&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <a href="https://nazmulhasan68.cloud">Portfolio</a> &nbsp;|&nbsp;
+  <a href="mailto:nazmulhasan00068@gmail.com">Email</a>
+</p>
