@@ -35,8 +35,9 @@ Full Stack Web Developer with <b>3+ years</b> of experience building scalable ME
   <tr><td>Learning Management System</td><td><a href="https://bdeducatorsbd.com">bdeducatorsbd.com</a></td></tr>
   <tr><td>SEO-Friendly News Portal</td><td><a href="https://wmznews.com">wmznews.com</a></td></tr>
   <tr><td>Agency Website</td><td><a href="https://wmzagency.com">wmzagency.com</a></td></tr>
+  <tr><td>Coaching Center</td><td><a href="https://wmzagency.com](https://nexus-coaching-center-demo.vercel.app/">Coaching.demo</a></td></tr>
   <tr><td>Software & Automation Agency</td><td><a href="https://creativenexusit.com">creativenexusit.com</a></td></tr>
   <tr><td>Leather Export Company</td><td><a href="https://www.tanova.com.bd">tanova.com.bd</a></td></tr>
-  <tr><td>University CLub</td><td><a href="https://www.bucc.site">tanova.com.bd</a></td></tr>
+  <tr><td>University CLub</td><td><a href="https://www.bucc.site">Bucc.site</a></td></tr>
   <tr><td>Project List </td><td><a href="https://cnit-demo.vercel.app">cnit-demo.vercel.app</a></td></tr>
 </table>
