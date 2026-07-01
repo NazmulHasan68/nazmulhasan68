@@ -35,13 +35,3 @@ Full Stack Web Developer with **3+ years** of experience building scalable MERN 
 | ⚙️ Software & Automation Agency | [creativenexusit.com](https://creativenexusit.com) |
 | 👞 Leather Export Company | [tanova.com.bd](https://www.tanova.com.bd) |
 | 📊 EasyHRM & EasyAnalyzer | [cnit-demo.vercel.app](https://cnit-demo.vercel.app) |
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazmulHasan68&show_icons=true&theme=default&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <a href="https://nazmulhasan68.cloud">🌍 Portfolio</a> •
-  <a href="mailto:nazmulhasan00068@gmail.com">📧 Email</a>
-</p>
