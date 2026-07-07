@@ -28,7 +28,7 @@ Full Stack Web Developer with <b>3+ years</b> of experience building scalable ME
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
-<h3>Featured Projects</h3>
+<h3>Featured Projects </h3>
  
 <table>
   <tr><th align="left">Project</th><th align="left">Live Demo</th></tr>
