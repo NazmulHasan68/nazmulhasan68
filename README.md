@@ -29,7 +29,7 @@ Full Stack Web Developer with <b>3+ years</b> of experience building scalable ME
 </p>
 
 <h3>Featured Projects</h3>
-
+ 
 <table>
   <tr><th align="left">Project</th><th align="left">Live Demo</th></tr>
   <tr><td>Learning Management System</td><td><a href="https://bdeducatorsbd.com">bdeducatorsbd.com</a></td></tr>
