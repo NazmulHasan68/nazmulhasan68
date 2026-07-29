@@ -1,5 +1,5 @@
 <h1 align="center">Nazmul Hasan 68 </h1>
-<h3 align="center">Full Stack Web Developer (MERN Stack) | React, Next.js, Node.js, MongoDB</h3>
+<h3 align="center">Full Stack Web Developer (MERN Stack) | React, Next.js, Node.js, MongoDB </h3>
 
 <p align="center">
   <a href="https://nazmulhasan68.cloud"><img src="https://img.shields.io/badge/Portfolio-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
