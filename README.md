@@ -6,6 +6,7 @@
   <a href="mailto:nazmulhasan00068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://cnit-demo.vercel.app/"><img src="https://img.shields.io/badge/Demo%20Projects-informational?style=for-the-badge" /></a>
 </p>
+
 <hr>
 
 <h3>About</h3>
