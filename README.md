@@ -9,7 +9,7 @@
 
 <hr>
 
-<h3>About</h3>
+<h3> About </h3>
 <p>
 Full Stack Web Developer with <b>3+ years</b> of experience building scalable MERN stack applications. Delivered <b>13+ production applications</b>, mentored <b>5,000+ learners</b>, and use <b>n8n, Claude, and Antigravity</b> to automate workflows and increase development efficiency. <h4>note: Most of the repos are private.</h4>  
 </p>
