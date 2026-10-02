@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer (MERN Stack) | React, Next.js, Node.js, MongoDB</h3>
 
 <p align="center">
-  <a href="https://nazmulhasan68.cloud"><img src="https://img.shields.io/badge/Portfolio-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://nazmulhasan68.cloud"><img src="https://img.shields.io/badge/Portfolio-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
   <a href="mailto:nazmulhasan00068@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://cnit-demo.vercel.app/"><img src="https://img.shields.io/badge/Demo%20Projects-informational?style=for-the-badge" /></a>
 </p>
