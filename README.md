@@ -14,6 +14,8 @@
 Full Stack Web Developer with <b>5+ years</b> of experience building scalable MERN stack applications. Delivered <b>13+ production applications</b>, mentored <b>40,000+ learners</b>, and use <b>n8n, Claude, and Antigravity</b> to automate workflows and increase development efficiency.<h4>note: Most of the repos are private.</h4>  
 </p>
 
+
+
 <h3>Tech Stack </h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
